@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cracking Clojure
+title: Clojure SSTI
 categories:
 - Web App Security
 tags:
